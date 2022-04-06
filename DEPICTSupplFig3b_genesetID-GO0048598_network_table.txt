@@ -1,0 +1,58 @@
+Source	Target	Pearson_correlation	Pearson_correlation_discrete
+mandible hypoplasia			
+abnormal craniofacial morphology	lowered ear position	0.350092773673	4
+abnormal craniofacial morphology	abnormal nose morphology	0.457288136817	5
+abnormal craniofacial morphology	eye development	0.330707480493	3
+abnormal craniofacial morphology	anterior/posterior pattern specification	0.374484042965	4
+abnormal craniofacial morphology	embryonic morphogenesis	0.497132962457	5
+abnormal craniofacial morphology	embryonic organ development	0.440187052518	4
+abnormal craniofacial morphology	embryonic organ morphogenesis	0.442554663176	4
+abnormal craniofacial morphology	embryo development ending in birth or egg hatching	0.433944858218	4
+abnormal craniofacial morphology	regionalization	0.433092270224	4
+abnormal craniofacial morphology	chordate embryonic development	0.439231240101	4
+abnormal neural fold formation	embryonic morphogenesis	0.346677559835	3
+abnormal neural fold formation	embryo development ending in birth or egg hatching	0.306365443949	3
+abnormal neural fold formation	regionalization	0.310870765291	3
+abnormal neural fold formation	chordate embryonic development	0.305870495212	3
+lowered ear position	abnormal nose morphology	0.347511306681	3
+lowered ear position	embryonic morphogenesis	0.327823003287	3
+lowered ear position	embryonic organ development	0.316518234714	3
+abnormal nose morphology	embryonic morphogenesis	0.385322587564	4
+abnormal nose morphology	embryonic organ development	0.340820097987	3
+abnormal nose morphology	embryonic organ morphogenesis	0.360905217578	4
+abnormal nose morphology	regionalization	0.327468371234	3
+transcription factor complex	anterior/posterior pattern specification	0.349811722971	3
+transcription factor complex	embryonic morphogenesis	0.420207273098	4
+transcription factor complex	embryonic organ development	0.383026019928	4
+transcription factor complex	embryo development ending in birth or egg hatching	0.488312991399	5
+transcription factor complex	regionalization	0.368967254339	4
+transcription factor complex	chordate embryonic development	0.485702836455	5
+eye development	anterior/posterior pattern specification	0.349326745166	3
+eye development	embryonic morphogenesis	0.42890607274	4
+eye development	embryonic organ development	0.419978337342	4
+eye development	embryonic organ morphogenesis	0.42946173453	4
+eye development	embryo development ending in birth or egg hatching	0.30094299156	3
+eye development	regionalization	0.395879204941	4
+eye development	chordate embryonic development	0.300718363498	3
+anterior/posterior pattern specification	embryonic morphogenesis	0.751586937094	8
+anterior/posterior pattern specification	embryonic organ development	0.689572255262	7
+anterior/posterior pattern specification	embryonic organ morphogenesis	0.709720265233	7
+anterior/posterior pattern specification	embryo development ending in birth or egg hatching	0.676730232112	7
+anterior/posterior pattern specification	regionalization	0.926416329865	9
+anterior/posterior pattern specification	chordate embryonic development	0.677363364071	7
+embryonic morphogenesis	embryonic organ development	0.858487402748	9
+embryonic morphogenesis	embryonic organ morphogenesis	0.850055776405	9
+embryonic morphogenesis	embryo development ending in birth or egg hatching	0.76629404183	8
+embryonic morphogenesis	regionalization	0.812772544598	8
+embryonic morphogenesis	chordate embryonic development	0.769102335758	8
+embryonic organ development	embryonic organ morphogenesis	0.903445694191	9
+embryonic organ development	embryo development ending in birth or egg hatching	0.767793338265	8
+embryonic organ development	regionalization	0.739864693511	7
+embryonic organ development	chordate embryonic development	0.770619827447	8
+embryonic organ morphogenesis	embryo development ending in birth or egg hatching	0.655701484019	7
+embryonic organ morphogenesis	regionalization	0.766808750892	8
+embryonic organ morphogenesis	chordate embryonic development	0.658413796963	7
+embryo development ending in birth or egg hatching	regionalization	0.704510133925	7
+embryo development ending in birth or egg hatching	chordate embryonic development	0.996594838574	10
+regionalization	chordate embryonic development	0.702615942383	7
+chordate embryonic development			

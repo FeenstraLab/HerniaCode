@@ -1,0 +1,116 @@
+p1_category	p1	p2_category	p2	rg	se	z	p	q
+Diaphragmatic_hernias	Diaphragmatic	education	Years of schooling	-0.3642	0.0234	-15.5387	1.90E-54	4.6528E-52
+Diaphragmatic_hernias	Diaphragmatic	reproductive	Age of first birth	-0.3889	0.0347	-11.2135	3.50E-29	8.57623E-27
+Diaphragmatic_hernias	Diaphragmatic	cognitive	Intelligence	-0.3127	0.0348	-8.9812	2.68E-19	6.55988E-17
+Diaphragmatic_hernias	Diaphragmatic	education	College completion	-0.382	0.0433	-8.8153	1.19E-18	2.92334E-16
+Diaphragmatic_hernias	Diaphragmatic	anthropometric	Waist-to-hip ratio	0.2651	0.0318	8.3418	7.32E-17	1.79311E-14
+Diaphragmatic_hernias	Diaphragmatic	cardiometabolic	Coronary artery disease	0.2759	0.0356	7.7559	8.77E-15	2.14973E-12
+Diaphragmatic_hernias	Diaphragmatic	psychiatric	Depressive symptoms	0.4061	0.0542	7.4966	6.55E-14	1.6047E-11
+Diaphragmatic_hernias	Diaphragmatic	anthropometric	Waist circumference	0.2129	0.0289	7.3602	1.84E-13	4.50016E-11
+Diaphragmatic_hernias	Diaphragmatic	anthropometric	Overweight	0.2499	0.0363	6.8809	5.95E-12	1.45702E-09
+Diaphragmatic_hernias	Diaphragmatic	sleeping	Insomnia	0.3509	0.055	6.3805	1.77E-10	4.32499E-08
+Diaphragmatic_hernias	Diaphragmatic	anthropometric	Body mass index	0.2005	0.0329	6.1037	1.04E-09	2.53943E-07
+Diaphragmatic_hernias	Diaphragmatic	anthropometric	Body fat	0.2417	0.0455	5.314	1.07E-07	2.62787E-05
+Diaphragmatic_hernias	Diaphragmatic	aging	Mothers age at death	-0.401	0.0842	-4.7617	1.92E-06	0.000470327
+Diaphragmatic_hernias	Diaphragmatic	reproductive	Number of children ever born	0.2065	0.0441	4.6836	2.82E-06	0.000690655
+Diaphragmatic_hernias	Diaphragmatic	autoimmune	Rheumatoid Arthritis	0.1884	0.0423	4.4499	8.59E-06	0.002105236
+Diaphragmatic_hernias	Diaphragmatic	reproductive	Age at Menarche	-0.1251	0.0297	-4.2164	2.48E-05	0.006082125
+Diaphragmatic_hernias	Diaphragmatic	anthropometric	Height	-0.1394	0.0342	-4.073	4.64E-05	0.011369715
+Diaphragmatic_hernias	Diaphragmatic	smoking_behaviour	Cigarettes smoked per day	0.3405	0.0846	4.0231	5.74E-05	0.014070595
+Diaphragmatic_hernias	Diaphragmatic	smoking_behaviour	Smoking Initiation	0.2738	0.0681	4.0215	5.78E-05	0.01416688
+Diaphragmatic_hernias	Diaphragmatic	smoking_behaviour	Former vs Current smoker	-0.2983	0.0743	-4.0155	5.93E-05	0.01453291
+Diaphragmatic_hernias	Diaphragmatic	smoking_behaviour	Ever vs never smoked	0.194	0.0504	3.8527	0.0001	0.0245
+Diaphragmatic_hernias	Diaphragmatic	haemotological	Platelet count	0.1578	0.0419	3.7668	0.0002	0.049
+Diaphragmatic_hernias	Diaphragmatic	psychiatric	Subjective well being	-0.1863	0.0505	-3.6863	0.0002	0.049
+Femoral_hernias	Femoral	reproductive	Age at Menarche	0.042	0.0778	0.5398	0.5893	1
+Femoral_hernias	Femoral	reproductive	Age of first birth	0.2001	0.0997	2.0077	0.0447	1
+Femoral_hernias	Femoral	anthropometric	Body fat	-0.239	0.139	-1.7195	0.0855	1
+Femoral_hernias	Femoral	anthropometric	Body mass index	-0.1061	0.0905	-1.1732	0.2407	1
+Femoral_hernias	Femoral	smoking_behaviour	Cigarettes smoked per day	-0.0543	0.1984	-0.2739	0.7842	1
+Femoral_hernias	Femoral	education	College completion	0.1482	0.1344	1.103	0.27	1
+Femoral_hernias	Femoral	cardiometabolic	Coronary artery disease	-0.0771	0.0837	-0.9214	0.3568	1
+Femoral_hernias	Femoral	psychiatric	Depressive symptoms	0.0126	0.1192	0.1054	0.9161	1
+Femoral_hernias	Femoral	smoking_behaviour	Ever vs never smoked	0.077	0.1444	0.5333	0.5938	1
+Femoral_hernias	Femoral	smoking_behaviour	Former vs Current smoker	-0.2253	0.2082	-1.082	0.2793	1
+Femoral_hernias	Femoral	anthropometric	Height	-0.0058	0.0772	-0.0758	0.9396	1
+Femoral_hernias	Femoral	sleeping	Insomnia	-0.0749	0.1309	-0.5724	0.567	1
+Femoral_hernias	Femoral	cognitive	Intelligence	-0.0551	0.1057	-0.5218	0.6018	1
+Femoral_hernias	Femoral	aging	Mothers age at death	-0.3336	0.1968	-1.6953	0.09	1
+Femoral_hernias	Femoral	reproductive	Number of children ever born	-0.0995	0.1051	-0.9467	0.3438	1
+Femoral_hernias	Femoral	anthropometric	Overweight	-0.2131	0.1014	-2.1009	0.0357	1
+Femoral_hernias	Femoral	haemotological	Platelet count	-0.0417	0.1035	-0.4034	0.6866	1
+Femoral_hernias	Femoral	autoimmune	Rheumatoid Arthritis	0.1392	0.1052	1.3232	0.1858	1
+Femoral_hernias	Femoral	smoking_behaviour	Smoking Initiation	0.3086	0.208	1.4837	0.1379	1
+Femoral_hernias	Femoral	psychiatric	Subjective well being	0.0829	0.1226	0.6761	0.499	1
+Femoral_hernias	Femoral	anthropometric	Waist circumference	-0.1077	0.0939	-1.1465	0.2516	1
+Femoral_hernias	Femoral	anthropometric	Waist-to-hip ratio	-0.1521	0.103	-1.4757	0.14	1
+Femoral_hernias	Femoral	education	Years of schooling	0.1116	0.0799	1.3965	0.1626	1
+Inguinal_hernias	Inguinal	reproductive	Age at Menarche	0.0566	0.0269	2.1059	0.0352	1
+Inguinal_hernias	Inguinal	reproductive	Age of first birth	0.02	0.0329	0.6061	0.5445	1
+Inguinal_hernias	Inguinal	anthropometric	Body fat	-0.153	0.043	-3.5537	0.0004	0.098
+Inguinal_hernias	Inguinal	anthropometric	Body mass index	-0.1246	0.0295	-4.2273	2.36E-05	0.00579376
+Inguinal_hernias	Inguinal	smoking_behaviour	Cigarettes smoked per day	0.0248	0.0622	0.398	0.6906	1
+Inguinal_hernias	Inguinal	education	College completion	-0.0642	0.0398	-1.6124	0.1069	1
+Inguinal_hernias	Inguinal	cardiometabolic	Coronary artery disease	-0.0393	0.0352	-1.1164	0.2643	1
+Inguinal_hernias	Inguinal	psychiatric	Depressive symptoms	0.114	0.0384	2.9693	0.003	0.735
+Inguinal_hernias	Inguinal	smoking_behaviour	Ever vs never smoked	-0.032	0.0419	-0.7632	0.4453	1
+Inguinal_hernias	Inguinal	smoking_behaviour	Former vs Current smoker	0.0961	0.065	1.478	0.1394	1
+Inguinal_hernias	Inguinal	anthropometric	Height	0.0097	0.0347	0.2799	0.7796	1
+Inguinal_hernias	Inguinal	sleeping	Insomnia	0.1248	0.05	2.4969	0.0125	1
+Inguinal_hernias	Inguinal	cognitive	Intelligence	-0.0383	0.0319	-1.2005	0.23	1
+Inguinal_hernias	Inguinal	aging	Mothers age at death	0.01	0.0729	0.1371	0.891	1
+Inguinal_hernias	Inguinal	reproductive	Number of children ever born	-0.0347	0.0418	-0.832	0.4054	1
+Inguinal_hernias	Inguinal	anthropometric	Overweight	-0.1383	0.0318	-4.3523	1.35E-05	0.003300395
+Inguinal_hernias	Inguinal	haemotological	Platelet count	0.0047	0.0386	0.1208	0.9039	1
+Inguinal_hernias	Inguinal	autoimmune	Rheumatoid Arthritis	-0.0007	0.0387	-0.0183	0.9854	1
+Inguinal_hernias	Inguinal	smoking_behaviour	Smoking Initiation	0.1008	0.0661	1.5248	0.1273	1
+Inguinal_hernias	Inguinal	psychiatric	Subjective well being	-0.0131	0.0471	-0.2779	0.7811	1
+Inguinal_hernias	Inguinal	anthropometric	Waist circumference	-0.0905	0.0322	-2.8108	0.0049	1
+Inguinal_hernias	Inguinal	anthropometric	Waist-to-hip ratio	-0.0823	0.0352	-2.3391	0.0193	1
+Inguinal_hernias	Inguinal	education	Years of schooling	-0.0317	0.0246	-1.2876	0.1979	1
+Umbilical_hernias	Umbilical	reproductive	Age at Menarche	-0.1147	0.0413	-2.7751	0.0055	1
+Umbilical_hernias	Umbilical	reproductive	Age of first birth	-0.1622	0.0468	-3.47	0.0005	0.1225
+Umbilical_hernias	Umbilical	anthropometric	Body fat	0.2452	0.0595	4.1212	3.77E-05	0.009234295
+Umbilical_hernias	Umbilical	anthropometric	Body mass index	0.3282	0.0511	6.4284	1.29E-10	3.15854E-08
+Umbilical_hernias	Umbilical	smoking_behaviour	Cigarettes smoked per day	0.0347	0.0927	0.3739	0.7084	1
+Umbilical_hernias	Umbilical	education	College completion	-0.1674	0.0601	-2.7876	0.0053	1
+Umbilical_hernias	Umbilical	cardiometabolic	Coronary artery disease	0.1096	0.0525	2.0881	0.0368	1
+Umbilical_hernias	Umbilical	psychiatric	Depressive symptoms	0.139	0.066	2.1051	0.0353	1
+Umbilical_hernias	Umbilical	smoking_behaviour	Ever vs never smoked	0.0676	0.0679	0.9952	0.3196	1
+Umbilical_hernias	Umbilical	smoking_behaviour	Former vs Current smoker	-0.0759	0.0842	-0.9008	0.3677	1
+Umbilical_hernias	Umbilical	anthropometric	Height	-0.0791	0.0406	-1.9506	0.0511	1
+Umbilical_hernias	Umbilical	sleeping	Insomnia	0.246	0.0684	3.5972	0.0003	0.0735
+Umbilical_hernias	Umbilical	cognitive	Intelligence	-0.1403	0.05	-2.8056	0.005	1
+Umbilical_hernias	Umbilical	aging	Mothers age at death	-0.1369	0.104	-1.3164	0.188	1
+Umbilical_hernias	Umbilical	reproductive	Number of children ever born	0.0978	0.0545	1.7945	0.0727	1
+Umbilical_hernias	Umbilical	anthropometric	Overweight	0.2929	0.0539	5.4295	5.65E-08	1.38425E-05
+Umbilical_hernias	Umbilical	haemotological	Platelet count	0.0203	0.0555	0.365	0.7151	1
+Umbilical_hernias	Umbilical	autoimmune	Rheumatoid Arthritis	0.053	0.0559	0.9486	0.3428	1
+Umbilical_hernias	Umbilical	smoking_behaviour	Smoking Initiation	-0.0145	0.0919	-0.1573	0.875	1
+Umbilical_hernias	Umbilical	psychiatric	Subjective well being	0.0497	0.0604	0.824	0.41	1
+Umbilical_hernias	Umbilical	anthropometric	Waist circumference	0.3034	0.049	6.1895	6.04E-10	1.47904E-07
+Umbilical_hernias	Umbilical	anthropometric	Waist-to-hip ratio	0.1999	0.0729	2.7439	0.0061	1
+Umbilical_hernias	Umbilical	education	Years of schooling	-0.1765	0.034	-5.1895	2.11E-07	5.16558E-05
+Ventral_hernias	Ventral	reproductive	Age at Menarche	-0.1054	0.0535	-1.9709	0.0487	1
+Ventral_hernias	Ventral	reproductive	Age of first birth	-0.3736	0.0637	-5.8674	4.43E-09	1.08464E-06
+Ventral_hernias	Ventral	anthropometric	Body fat	0.3001	0.0837	3.5863	0.0003	0.0735
+Ventral_hernias	Ventral	anthropometric	Body mass index	0.2948	0.0637	4.6297	3.66E-06	0.000897362
+Ventral_hernias	Ventral	smoking_behaviour	Cigarettes smoked per day	0.3399	0.1329	2.5567	0.0106	1
+Ventral_hernias	Ventral	education	College completion	-0.3125	0.0772	-4.046	5.21E-05	0.012763765
+Ventral_hernias	Ventral	cardiometabolic	Coronary artery disease	0.1903	0.0637	2.9887	0.0028	0.686
+Ventral_hernias	Ventral	psychiatric	Depressive symptoms	0.3071	0.095	3.2324	0.0012	0.294
+Ventral_hernias	Ventral	smoking_behaviour	Ever vs never smoked	0.2609	0.0887	2.9421	0.0033	0.8085
+Ventral_hernias	Ventral	smoking_behaviour	Former vs Current smoker	-0.2162	0.1277	-1.6937	0.0903	1
+Ventral_hernias	Ventral	anthropometric	Height	-0.1476	0.0517	-2.8536	0.0043	1
+Ventral_hernias	Ventral	sleeping	Insomnia	0.27	0.0975	2.7705	0.0056	1
+Ventral_hernias	Ventral	cognitive	Intelligence	-0.2419	0.0658	-3.676	0.0002	0.049
+Ventral_hernias	Ventral	aging	Mothers age at death	-0.2375	0.1325	-1.7926	0.073	1
+Ventral_hernias	Ventral	reproductive	Number of children ever born	0.1572	0.0751	2.0917	0.0365	1
+Ventral_hernias	Ventral	anthropometric	Overweight	0.3638	0.0722	5.0358	4.76E-07	0.000116593
+Ventral_hernias	Ventral	haemotological	Platelet count	-0.0518	0.08	-0.6473	0.5174	1
+Ventral_hernias	Ventral	autoimmune	Rheumatoid Arthritis	0.1467	0.0761	1.9283	0.0538	1
+Ventral_hernias	Ventral	smoking_behaviour	Smoking Initiation	0.125	0.1358	0.9202	0.3575	1
+Ventral_hernias	Ventral	psychiatric	Subjective well being	-0.1261	0.0839	-1.5032	0.1328	1
+Ventral_hernias	Ventral	anthropometric	Waist circumference	0.3158	0.0724	4.3623	1.29E-05	0.00315315
+Ventral_hernias	Ventral	anthropometric	Waist-to-hip ratio	0.225	0.0718	3.1333	0.0017	0.4165
+Ventral_hernias	Ventral	education	Years of schooling	-0.3044	0.0451	-6.7421	1.56E-11	3.82421E-09

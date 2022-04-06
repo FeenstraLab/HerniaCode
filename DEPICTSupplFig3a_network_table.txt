@@ -1,0 +1,118 @@
+Source	Target	Pearson_correlation	Pearson_correlation_discrete
+complete embryonic lethality during organogenesis	abnormal heart morphology	0.535583983646	5
+complete embryonic lethality during organogenesis	ventricular septal defect	0.476000327343	5
+complete embryonic lethality during organogenesis	SMAD binding	0.411705975949	4
+complete embryonic lethality during organogenesis	blood vessel development	0.475390215971	5
+complete embryonic lethality during organogenesis	morphogenesis of an epithelium	0.411791210033	4
+abnormal cervical vertebrae morphology	abnormal sternebra morphology	0.606756515898	6
+abnormal cervical vertebrae morphology	skeletal system development	0.570862550149	6
+abnormal cervical vertebrae morphology	embryonic morphogenesis	0.505163774248	5
+abnormal incisor morphology	complete neonatal lethality	0.414188951553	4
+abnormal incisor morphology	skeletal system development	0.452487455046	5
+abnormal incisor morphology	appendage morphogenesis	0.407037075476	4
+abnormal incisor morphology	canonical Wnt receptor signaling pathway	0.426982590216	4
+abnormal kidney development	complete neonatal lethality	0.416775009319	4
+abnormal kidney development	embryonic morphogenesis	0.465473368569	5
+abnormal kidney development	morphogenesis of an epithelium	0.539543556836	5
+abnormal kidney development	mesonephric epithelium development	0.4174088624	4
+abnormal kidney development	ureteric bud morphogenesis	0.561312547605	6
+abnormal kidney development	renal system development	0.575181450216	6
+abnormal heart morphology	blood vessel development	0.411560348115	4
+abnormal heart morphology	cardiac muscle tissue development	0.400939679984	4
+abnormal fourth branchial arch artery morphology	ventricular septal defect	0.412719169708	4
+abnormal fourth branchial arch artery morphology	blood vessel development	0.439298969449	4
+short ulna	complete neonatal lethality	0.432360031859	4
+short ulna	abnormal sternebra morphology	0.424300136192	4
+short ulna	abnormal long bone epiphyseal plate proliferative zone	0.485868752649	5
+short ulna	skeletal system development	0.618351197879	6
+short ulna	embryonic morphogenesis	0.477743942154	5
+short ulna	appendage morphogenesis	0.534704087471	5
+short ulna	canonical Wnt receptor signaling pathway	0.404014725632	4
+short ulna	morphogenesis of an epithelium	0.404978060372	4
+complete neonatal lethality	abnormal sternebra morphology	0.447243343326	4
+complete neonatal lethality	skeletal system development	0.507821803355	5
+complete neonatal lethality	embryonic morphogenesis	0.560385792814	6
+complete neonatal lethality	appendage morphogenesis	0.450321135395	5
+complete neonatal lethality	muscle structure development	0.412580881934	4
+complete neonatal lethality	canonical Wnt receptor signaling pathway	0.426005238436	4
+complete neonatal lethality	morphogenesis of an epithelium	0.475851043119	5
+ventricular septal defect	blood vessel development	0.400781939913	4
+ventricular septal defect	embryonic morphogenesis	0.423207971422	4
+ventricular septal defect	morphogenesis of an epithelium	0.423432759284	4
+abnormal sternebra morphology	skeletal system development	0.584576095268	6
+abnormal sternebra morphology	embryonic morphogenesis	0.566325926099	6
+abnormal sternebra morphology	appendage morphogenesis	0.46910678804	5
+abnormal long bone epiphyseal plate proliferative zone	glycosaminoglycan binding	0.459143461717	5
+abnormal long bone epiphyseal plate proliferative zone	extracellular matrix part	0.503477843699	5
+abnormal long bone epiphyseal plate proliferative zone	skeletal system development	0.524363315924	5
+SMAD binding	regulation of TRP serine threonine kinase signaling pathway	0.520808788034	5
+glycosaminoglycan binding	extracellular matrix part	0.588018099204	6
+glycosaminoglycan binding	insulin-like growth factor binding proteins IGFBPS	0.428870863325	4
+glycosaminoglycan binding	blood vessel development	0.413196149247	4
+glycosaminoglycan binding	regulation of cell motility	0.407268054577	4
+extracellular matrix part	ITGB1 PPI subnetwork	0.581044155903	6
+extracellular matrix part	skeletal system development	0.435117097523	4
+extracellular matrix part	blood vessel development	0.458248799081	5
+insulin-like growth factor binding proteins IGFBPS	PLG PPI subnetwork	0.501337601571	5
+reactome signaling by VEGF	blood vessel development	0.459848610593	5
+ITGB1 PPI subnetwork	blood vessel development	0.462749943731	5
+ITGB1 PPI subnetwork	regulation of cell motility	0.435796388347	4
+FZD6 PPI subnetwork	response to retinoic acid	0.430031087403	4
+FZD6 PPI subnetwork	embryonic morphogenesis	0.423217487214	4
+FZD6 PPI subnetwork	canonical Wnt receptor signaling pathway	0.614680419782	6
+FZD6 PPI subnetwork	morphogenesis of an epithelium	0.461709347957	5
+skeletal system development	embryonic morphogenesis	0.677937010347	7
+skeletal system development	appendage morphogenesis	0.645758721891	6
+skeletal system development	canonical Wnt receptor signaling pathway	0.453540520319	5
+skeletal system development	regulation of mesenchymal cell proliferation	0.409135509005	4
+skeletal system development	morphogenesis of an epithelium	0.453002079116	5
+skeletal system development	renal system development	0.455621924175	5
+blood vessel development	respiratory tube development	0.402745806037	4
+blood vessel development	embryonic morphogenesis	0.424666847842	4
+blood vessel development	regulation of cell motility	0.623889558091	6
+blood vessel development	morphogenesis of an epithelium	0.509867492272	5
+respiratory tube development	regulation of mesenchymal cell proliferation	0.4115340693	4
+respiratory tube development	morphogenesis of an epithelium	0.510345573486	5
+mesoderm morphogenesis	mesodermal cell fate commitment	0.645165346467	6
+mesoderm morphogenesis	embryonic morphogenesis	0.533096656548	5
+mesoderm morphogenesis	regulation of TRP serine threonine kinase signaling pathway	0.416155896236	4
+mesoderm morphogenesis	canonical Wnt receptor signaling pathway	0.400218416354	4
+mesoderm morphogenesis	morphogenesis of an epithelium	0.411793924715	4
+mesodermal cell fate commitment	organ induction	0.40174501252	4
+organ induction	appendage morphogenesis	0.402683059619	4
+organ induction	ureteric bud morphogenesis	0.430894078757	4
+organ induction	morphogenesis of an epithelial bud	0.450464076765	5
+embryonic morphogenesis	appendage morphogenesis	0.715374830499	7
+embryonic morphogenesis	regulation of TRP serine threonine kinase signaling pathway	0.432674176734	4
+embryonic morphogenesis	canonical Wnt receptor signaling pathway	0.589052909527	6
+embryonic morphogenesis	regulation of mesenchymal cell proliferation	0.426104383771	4
+embryonic morphogenesis	morphogenesis of an epithelium	0.719743834586	7
+embryonic morphogenesis	ureteric bud morphogenesis	0.449168313409	4
+embryonic morphogenesis	renal system development	0.519343703244	5
+epithelial cell differentiation	morphogenesis of an epithelium	0.444923611941	4
+appendage morphogenesis	canonical Wnt receptor signaling pathway	0.494989781727	5
+appendage morphogenesis	regulation of mesenchymal cell proliferation	0.446838537754	4
+appendage morphogenesis	morphogenesis of an epithelium	0.531446577868	5
+appendage morphogenesis	ureteric bud morphogenesis	0.407638763041	4
+appendage morphogenesis	renal system development	0.47322253762	5
+cardiac muscle tissue development	muscle structure development	0.657221697852	7
+cardiac muscle tissue development	regulation of striated muscle tissue development	0.4767884364	5
+artery morphogenesis	renal system development	0.415098480051	4
+muscle structure development	regulation of striated muscle tissue development	0.533437579331	5
+regulation of TRP serine threonine kinase signaling pathway	canonical Wnt receptor signaling pathway	0.400912935712	4
+regulation of TRP serine threonine kinase signaling pathway	morphogenesis of an epithelium	0.442034621671	4
+canonical Wnt receptor signaling pathway	regulation of mesenchymal cell proliferation	0.417842192156	4
+canonical Wnt receptor signaling pathway	morphogenesis of an epithelium	0.596362856396	6
+regulation of mesenchymal cell proliferation	morphogenesis of an epithelium	0.426998045929	4
+regulation of mesenchymal cell proliferation	morphogenesis of an epithelial bud	0.409068729968	4
+morphogenesis of an epithelium	ureteric bud morphogenesis	0.55247531342	6
+morphogenesis of an epithelium	renal system development	0.594667497597	6
+mesonephric epithelium development	ureteric bud morphogenesis	0.539056382739	5
+mesonephric epithelium development	renal system development	0.423535710591	4
+ureteric bud morphogenesis	renal system development	0.634516325565	6
+PLG PPI subnetwork
+regulation of striated muscle tissue development
+response to retinoic acid
+morphogenesis of an epithelial bud
+renal system development
+regulation of cell motility

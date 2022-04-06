@@ -1,0 +1,120 @@
+# This file includes a series of comments. Each comment is marked 
+# by a # character as the first character in the line.
+SCHEME   STDERR
+
+# Genomic control was applied to each input file. GENOMICCONTROL OFF
+
+# Additional stats for QC
+AVERAGEFREQ ON
+MINMAXFREQ ON
+
+# INGUINAL HERNIA META-ANALYSIS: The underlying data from the five studies are provided in Supplementary Data 2 for the UK Biobank Supplementary Data 3 for the four follow-up studies
+
+# Describe and process UKB
+MARKER   SNP  
+ALLELE   refA nonrefA
+FREQ     freq
+EFFECT   bJ
+STDERR   bJ_se
+PVAL     pJ
+PROCESS UK.out
+
+
+# Describe and process FINNGEN
+MARKER   SNP  
+ALLELE   refA nonrefA
+FREQ     freq
+EFFECT   bJ
+STDERR   bJ_se
+PVAL     pJ
+PROCESS FINNGEN.out
+
+
+# Describe and process EST
+MARKER   SNP  
+ALLELE   refA nonrefA
+FREQ     freq
+EFFECT   bJ
+STDERR   bJ_se
+PVAL     pJ
+PROCESS EST.out
+
+
+# Describe and process iPSYCH
+MARKER   SNP  
+ALLELE   refA nonrefA
+FREQ     freq
+EFFECT   bJ
+STDERR   bJ_se
+PVAL     pJ
+PROCESS iPSYCH.out
+
+# Describe and process DIVERT
+MARKER   SNP  
+ALLELE   refA nonrefA
+FREQ     freq
+EFFECT   bJ
+STDERR   bJ_se
+PVAL     pJ
+PROCESS DIVERT.out
+
+# Execute meta-analysis
+OUTFILE METAukb_finngen_est_ips_dd_SE .tbl
+VERBOSE ON
+ANALYZE HETEROGENEITY
+
+CLEAR
+
+
+# ANALYSIS OF COMBINED FOLLOW-UP STUDIES
+SCHEME   STDERR
+GENOMICCONTROL OFF
+
+AVERAGEFREQ ON
+MINMAXFREQ ON
+# Describe and process FINNGEN
+MARKER   SNP  
+ALLELE   refA nonrefA
+FREQ     freq
+EFFECT   bJ
+STDERR   bJ_se
+PVAL     pJ
+PROCESS FINNGEN.out
+
+# Describe and process EST
+MARKER   SNP  
+ALLELE   refA nonrefA
+FREQ     freq
+EFFECT   bJ
+STDERR   bJ_se
+PVAL     pJ
+PROCESS EST.out
+
+# Describe and process iPSYCH
+MARKER   SNP  
+ALLELE   refA nonrefA
+FREQ     freq
+EFFECT   bJ
+STDERR   bJ_se
+PVAL     pJ
+PROCESS iPSYCH.out
+
+# Describe and process DIVERT
+MARKER   SNP  
+ALLELE   refA nonrefA
+FREQ     freq
+EFFECT   bJ
+STDERR   bJ_se
+PVAL     pJ
+PROCESS DIVERT.out
+
+# Execute analysis
+OUTFILE FOLLOWUPfin5_est_ips_dd_SE .tbl
+VERBOSE ON
+ANALYZE HETEROGENEITY
+
+CLEAR
+
+
+QUIT
+

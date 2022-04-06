@@ -1,0 +1,29 @@
+CATEGORY	TRAIT	COLOR
+aging	Mothers age at death	#4C72AE
+anthropometric	Waist-to-hip ratio	#E4812F
+anthropometric	Waist circumference	#E4812F
+anthropometric	Overweight	#E4812F
+anthropometric	Body mass index	#E4812F
+anthropometric	Body fat	#E4812F
+anthropometric	Height	#E4812F
+autoimmune	Rheumatoid Arthritis	#8C61B6
+cardiometabolic	Coronary artery disease	#80584E
+cognitive	Intelligence	#6BBCCC
+education	Years of schooling	#BA2E2C
+education	College completion	#BA2E2C
+haemotological	Platelet count	#5AA245
+psychiatric	Depressive symptoms	#7F7F7F
+psychiatric	Subjective well being	#7F7F7F
+reproductive	Age of first birth	#F3DE67
+reproductive	Number of children ever born	#F3DE67
+reproductive	Age at Menarche	#F3DE67
+sleeping	Insomnia	#CE72BB
+smoking_behaviour	Cigarettes smoked per day	#5AA245
+smoking_behaviour	Smoking Initiation	#5AA245
+smoking_behaviour	Former vs Current smoker	#5AA245
+smoking_behaviour	Ever vs never smoked	#5AA245
+Diaphragmatic_hernias	Diaphragmatic	#FFFFFF
+Femoral_hernias	Femoral	#FFFFFF
+Inguinal_hernias	Inguinal	#FFFFFF
+Umbilical_hernias	Umbilical	#FFFFFF
+Ventral_hernias	Ventral	#FFFFFF

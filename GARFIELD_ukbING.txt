@@ -1,0 +1,52 @@
+#!/bin/bash
+
+# link to the relevant files from GARFIELD and GWAS
+INPUTNAME=ukbINGall 
+DATADIR=/data
+
+PRUNETAGSDIR=$DATADIR/tags/r01
+CLUMPTAGSDIR=$DATADIR/tags/r08
+MAFTSSDDIR=$DATADIR/maftssd
+PVALDIR=/GARFIELD/garfield-data/pval/ukbINGall
+ANNOTDIR=$DATADIR/annotation
+OUTDIR=$DATADIR/output/ukbINGall
+mkdir -p $OUTDIR
+
+ANNOTLINKFILE=$ANNOTDIR/link_file.txt
+NPERM=1000000
+NANNOT=$((`cat $ANNOTLINKFILE | wc -l` - 1))
+PTHRESH=1e-2,1e-4,1e-5,1e-6,1e-7,1e-8
+PTHRESHTEST=1e-4,1e-5,1e-6,1e-7,1e-8
+BINNING=m10n10t7
+
+F1=$OUTDIR/garfield.prep.$INPUTNAME.out
+F2=$OUTDIR/garfield.perm.$INPUTNAME.out
+
+echo 'Prune and Clump'
+
+echo -n > $F1
+for CHR in `seq 1 22` X
+do
+
+echo 'CHR'$CHR
+
+./garfield-prep $PRUNETAGSDIR/chr$CHR $CLUMPTAGSDIR/chr$CHR $MAFTSSDDIR/chr$CHR $PVALDIR/chr$CHR $ANNOTDIR/chr$CHR 895,975,976,977,978,979,980 >> $F1 || { echo 'Failure!'; } 
+
+done
+
+
+
+echo 'Calculate Fold Enrichment and Significance'
+
+# greedy permutation step
+./garfield-perm -n $NPERM -a $NANNOT -p $PTHRESH -pt $PTHRESHTEST -q $BINNING -i $F1 -o $F2 -g -m 100 -t 0.0001
+
+# original permutation step
+#./garfield-perm -n $NPERM -a $NANNOT -p $PTHRESH -pt $PTHRESHTEST -q $BINNING -i $F1 -o $F2
+
+echo 'Create Plots'
+
+Rscript GARFIELD-plot2thresh.R $F2 $NPERM $OUTDIR/garfieldPTHRESH.${INPUTNAME} "Inguinal Hernia" 10 0
+
+echo 'GARFIELD Analysis Complete!'
+
